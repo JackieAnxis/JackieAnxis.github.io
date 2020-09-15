@@ -1,5 +1,19 @@
-# resume-docs
+## Get started
 
-https://resume.js.org
+1. git clone
 
-https://resume-docs.vercel.app
+   ```bash
+   git clone git@github.com:jiacheng-pan/jiacheng-pan.github.io.git
+   ```
+
+2. npm install
+
+   ```bash
+   npm install
+   ```
+
+3. add themes
+
+   ```bash
+   git clone https://github.com/xaoxuu/hexo-theme-resume.git themes/resume
+   ```
