@@ -24,7 +24,7 @@ code_dir: downloads/code
 
 # Directory
 source_dir: src
-public_dir: public
+public_dir: docs
 skip_render: README.md
 exclude: README.md
 

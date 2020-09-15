@@ -2,5 +2,4 @@
 node_modules
 db.json
 .deploy_git
-public
 themes\hexo-themes-resume
