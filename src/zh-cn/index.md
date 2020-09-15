@@ -10,17 +10,17 @@ resume_title: 潘嘉铖的个人主页
 name: 潘嘉铖
 # 联系方式
 contact:
-    - icon: fas fa-globe-asia
-      text: http://jiacheng-pan.github.io/
-      url: http://jiacheng-pan.github.io/zh-cn/
-    # 邮箱
-    - icon: fas fa-envelope
-      text: panjiacheng@zju.edu.cn
-      url: mailto:panjiacheng@zju.edu.cn
-    # 电话号码
-    - icon: fab fa-github-alt
-      text: JackieAnxis
-      url: https://github.com/JackieAnxis
+  - icon: fas fa-globe-asia
+    text: http://panjiacheng.site/
+    url: http://panjiacheng.site/zh-cn/
+  # 邮箱
+  - icon: fas fa-envelope
+    text: panjiacheng@zju.edu.cn
+    url: mailto:panjiacheng@zju.edu.cn
+  # 电话号码
+  - icon: fab fa-github-alt
+    text: JackieAnxis
+    url: https://github.com/JackieAnxis
 ---
 
 {% raw %}
@@ -39,168 +39,202 @@ contact:
 
 潘嘉铖目前仍是一名[浙江大学](http://www.zju.edu.cn/)[计算机辅助设计与图形学（CAD&CG）国家重点实验室](http://www.cad.zju.edu.cn/)的博士生。他当前的研究兴趣包括可视化和可视分析。从 2013 年到 2017 年，他是浙江大学的一个本科学生。之后，他获得了工学硕士学位，然后成为了一名 CAD&CG 实验室的硕士学生。2019 年 9 月，他成为了[陈为教授](http://www.cad.zju.edu.cn/home/chenwei/index.html)的一名博士学生。
 
--   个人主页: http://jiacheng-pan.github.io/
--   Github: https://github.com/JackieAnxis
--   浙江大学可视分析小组: https://zjuvag.org/
+- 个人主页: http://panjiacheng.site/
+- Github: https://github.com/JackieAnxis
+- 浙江大学可视分析小组: https://zjuvag.org/
 
-## <i class="fas fa-user-graduate"></i> 教育背景
+## <i class="fas fa-user-graduate"></i> 教育经历
 
-### 2019 ~ 现在: 浙江大学
+### 2019 ~ 现在: 博士研究生
 
-#### 博士生
-
-研究方向: 可视化与可视分析
-
--   实验室: CAD&CG 国家重点实验室
--   学院: 计算机科学与技术学院
-
-### 2017 ~ 2019: 浙江大学
-
-#### 硕士生
+#### 浙江大学
 
 研究方向: 可视化与可视分析
 
--   实验室: CAD&CG 国家重点实验室
--   学院: 计算机科学与技术学院
+- 实验室: CAD&CG 国家重点实验室
+- 学院: 计算机科学与技术学院
 
-### 2013 ~ 2017: 浙江大学
+### 2017 ~ 2019: 硕士研究生
 
-#### 本科生
+#### 浙江大学
+
+研究方向: 可视化与可视分析
+
+- 实验室: CAD&CG 国家重点实验室
+- 学院: 计算机科学与技术学院
+
+### 2013 ~ 2017: 本科生
+
+#### 浙江大学
 
 主修: 软件工程
 
--   学院: 计算机科学与技术学院
+- 学院: 计算机科学与技术学院
 
 辅修: 创新与创业管理强化班
 
--   学院：竺可桢学院
+- 学院: 竺可桢荣誉学院
 
-## <i class="fas fa-user-tie"></i> 工作经验
+## <i class="fas fa-book"></i> 论文发表
 
-#### 2000 年 ~ 至今：XX 公司
+### 2020
 
--   主要负责 XXX
--   也负责 XXX
+#### Exemplar-based Layout Fine-tuning for Node-link Diagrams
 
-#### 1900 年 ~ 2000 年：XX 公司
+`InfoVis` [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/7d531afa561ac4fa5febffe0cb95e38477f73241.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4) [`📌 SUPPL.`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/cca9e7fdb68b9cc8de1f7e808c57cfbb1877f3bf.pdf) [`🔗 ARXIV`](https://arxiv.org/abs/2008.00666)
 
--   主要负责 XXX
--   也负责 XXX
+<fancybox>
+<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_19-29-50.png'>
+</fancybox>
 
-#### 1800 年 ~ 1900 年：XX 公司
+- 作者: **Jiacheng Pan**, Wei Chen, Xiaodong Zhao, Shuyue Zhou, Wei Zeng, Minfeng Zhu, Jian Chen, Siwei Fu, Yingcai Wu
+- 发表刊物: IEEE InfoVis
+- 关键词: `Node-link Diagram` `Graph Layout` `Graph Visualization` `User Interactions`
 
--   主要负责 XXX
--   也负责 XXX
+---
 
-## <i class="fas fa-award"></i> 精选项目
+#### iNet: Visual Analysis of Irregular Transition in Multivariate Dynamic Networks
+
+`FCS`
+
+<fancybox>
+<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-59-37.png'>
+</fancybox>
+
+- 作者: Dongming Han, **Jiacheng Pan**, Rusheng Pan, Dawei Zhou,Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
+- 发表刊物: Frontiers of Computer Science
+- 关键词: `Multivariate Dynamic Networks` `Rare Categories` `Anomaly Detection` `Visual Analysis`
+
+---
+
+#### RCAnalyzer: Visual Analytics of Rare Categories in Dynamic Networks
+
+[`FITEE`](http://www.jzus.zju.edu.cn/article.php?doi=10.1631/FITEE.1900310) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/RCAnalyzer-Visual%20Analytics%20of%20Rare%20Categories%20in%20Dynamic%20Networks.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/videos/RCAnalyzer-Visual%20Analytics%20of%20Rare%20Categories%20in%20Dynamic%20Networks.mp4)
+
+<fancybox>
+<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-56-28.png'>
+</fancybox>
+
+- 作者: **Jiacheng Pan**, Dongming Han, Fangzhou Guo, Dawei Zhou, Nan, Cao, Jingrui He, Wei Chen
+- 发表刊物: Frontiers of Information Technology & Electronic Engineering
+- 关键词: `Rare Category Detection` `Dynamic Network` `Visual Analytics`
+
+---
+
+<!--
+#### Visualization for Federated Learning: Challenges and Framework.
+
+[`JCAD`](http://www.jcad.cn/jcadcms/news/100000/2020/1c16369247014edeacfb7a338e401db2.shtml) [`📄 PDF`](http://www.jcad.cn/jcadcms/document/attach_manager!download.action?id=4ad554247177d170017196ed8f40000a)
+
+- Authors: Rusheng Pan, Dongming Han, **Jiacheng Pan**, Honghui Mei, Shuyue Zhou, Wei Chen
+- Publication: Journal of Computer-Aided Design & Computer Graphics (Chinese)
+- Keywords: `Federated Learning` `Explainable Machine Learning` `Data Privacy` `Anomaly detection`
+
+--- -->
+
+### 2019
+
+#### Structure-based suggestive exploration: A new approach for effective exploration of large networks
+
+[`IEEE TVCG`](https://ieeexplore.ieee.org/abstract/document/8440813/) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/Structure-Based%20Suggestive%20Exploration.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/videos/Structure-Based%20Suggestive%20Exploration-A%20New%20Approach%20for%20Effective%20Exploration%20of%20Large%20Networks.mp4) [`📰 SLIDES`](http://www.cad.zju.edu.cn/home/vagblog/slides/201907/vis2018berlin.pdf) [`👨‍🏫 PRESENTATION`](https://vimeo.com/299856392) [`👨‍💻 CODE`](https://github.com/ZJUVAG/S3)
+
+<fancybox>
+<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-32-59.png'>
+</fancybox>
+
+- 作者: Wei Chen, Fangzhou Guo, Dongming Han, **Jacheng Pan**, Xiaotao Nie, Jiazhi Xia, Xiaolong Zhang
+- 发表刊物: IEEE Transactions on Visualization and Computer Graphics
+- 关键词: `Large Network Exploration` `Structure-Based Exploration` `Suggestive Exploration`
+
+---
+
+#### RankBrushers: interactive analysis of temporal ranking ensembles
+
+[`JOV`](https://link.springer.com/article/10.1007/s12650-019-00598-x) [`📄 PDF`](https://www.researchgate.net/profile/Dongming_Han/publication/336005458_RankBrushers_interactive_analysis_of_temporal_ranking_ensembles/links/5eba2dec92851cd50dab5b36/RankBrushers-interactive-analysis-of-temporal-ranking-ensembles.pdf)
+
+<fancybox>
+<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-45-04.png'>
+</fancybox>
+
+- 作者: Dongming Han, **Jiacheng Pan**, Fangzhou Guo, Xiaonan Luo, Yingcai Wu, Wenting Zheng, Wei Chen
+- 发表刊物: Journal of Visualization
+- 关键词: `Visualization` `Temporal Ranking Ensembles` `Uncertainty`
+
+<!--
+
+---
+
+#### Visual Exploration of Topological Structure for Bitcoin Trading Network
+
+[`JOS`](http://www.jos.org.cn/1000-9825/5780.htm) [`📄 PDF`](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5780&journal_id=jos)
+
+- Authors: **Jiacheng Pan**, Dongming Han, Fangzhou Guo, Wenting Zheng, Jinhui Yu, Wei Chen
+- Publication: Journal of Software (Chinese)
+- Keywords: `Bitcoin Network` `Trading Pattern` `Topological Structure`
+
+---
+
+### 2018
+
+#### Visual Analysis for Anomaly Detection in Time-Series: A Survey
+
+[`CRAD`](http://crad.ict.ac.cn/EN/abstract/abstract3761.shtml) [`📄 PDF`](http://crad.ict.ac.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=3761)
+
+- Authors: Dongming Han, Fangzhou Guo, **Jiacheng Pan**, Wenting Zheng, Wei Chen
+- Publication: Journal of Computer Research and Development (Chinese)
+- Keywords: `Anomaly Detection` `Visual Analysis` `Visualization` `Time-series Data` `Data Mining`
+
+--- -->
+
+## <i class="fab fa-github"></i> Open Source Contributions
 
 {% raw %}
 <btns rounded>
-<a href='https://apps.apple.com/cn/app/heart-mate-pro-hrm-utility/id1463348922?ls=1'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/heartmate/icon.png'>
-心率管家
-</a>
-<a href='https://apps.apple.com/cn/app/c%E5%85%BB%E8%80%81/id1458315594'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-cyanglao/icon.png'>
-C 养老
-</a>
-<a href='https://apps.apple.com/cn/app/c-life%E5%85%BB%E8%80%81/id1393937890'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/het-clife/icon.png'>
-C-Life 养老
-</a>
-<a href='https://apps.apple.com/cn/app/linksmart/id1109303355'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-linksmart/icon.png'>
-LinkSmart
-</a>
-<a href='https://apps.apple.com/cn/app/hitfit/id1207738581'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-hitfit/icon.png'>
-HitFit
-</a>
-<a href='https://apps.apple.com/cn/app/%E8%85%95%E8%83%BD%E5%8A%A9%E6%89%8B/id1138242219'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/ht-fiyta/icon.png'>
-飞亚达腕能助手
+<a href='https://github.com/ZJUVAG/NetV.js/'>
+<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/NetV.png'>
+NetV.js
 </a>
 </btns><br>
 {% endraw %}
 
-### A 项目
+### NetV.js
 
-#### 2000/01 ~ 2019/01：于 XX 公司开发，团队项目，维护至今
+#### 2019/09 ~ Presented: NetV.js
 
-啦啦啦
+一个大规模图可视化的工具
 
-### B 项目
+- 主要使用 `TypeScript` 开发
+- Github: https://github.com/ZJUVAG/NetV.js/
 
-#### 1900/01 ~ 2000/01：于 XX 公司开发
+## <i class="fas fa-user-tie"></i> 工作经历
 
-啦啦啦
+#### 2019 ~ 现在: [Zhejiang Lab](http://www.zhejianglab.com/) 实习
 
-### C 项目
+- 主要负责一个大规模图可视化的项目
 
-#### 1800/01 ~ 1900/01：于 XX 公司开发
+## <i class="fas fa-award"></i> 奖励和奖学金
 
-啦啦啦
+#### 2019
 
-## <i class="fab fa-github"></i> 开源贡献
+- 浙江大学博士新生奖学金
 
-### Volantis
+#### 2018
 
-#### 2017 ~ 至今，一个简约的卡片式 Hexo 博客主题
+- 浙江大学蒋震奖学金
 
--   完全自由的模块化、易于定制化设计
--   移动端优化
--   源码：https://github.com/xaoxuu/hexo-theme-volantis
--   官网：https://volantis.js.org/
+#### 2017
 
-### ProHUD
+- 卓越系列人才培养计划荣誉证书
+- 未来领袖之星
+- 浙江大学蒋震奖学金
 
-#### 2019/08 ~ 至今，易于定制、接口简单的 HUD 库
+#### 2016
 
--   使用 Swift5 编写。
--   包含顶部通知横幅、弹窗、底部操作表三种使用场景的 UI 控件。
--   易于配置 UI 从而满足公司各业务线的 UI 要求，接口调用简单明了。
--   源码：https://github.com/xaoxuu/ProHUD
+- 浙报阿里新媒体奖学金
+- 浙江大学学业二等奖学金
+- 第二届中国大学生“互联网+”创业大赛银奖
+- 第二届中国大学生“创青春”创业大赛金奖
 
-<fancybox>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot01.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot02.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot03.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot04.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot05.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot06.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot07.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot08.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot09.png'>
-<img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/proj/prohud/screenshot10.png'>
-</fancybox>
+#### 2015
 
-## <i class="fas fa-phone-alt"></i> 与我联系
-
-目前状态为：在职，考虑换工作，100 年内可到岗。
-
-<i class="fas fa-envelope fa-fw"></i> your email
-<i class="fas fa-phone-alt fa-fw"></i> 1xxxxxxxxxx
-
-## 主题配置
-
-```yaml
-cdn:
-    # These base libraries cannot be deleted
-    jquery: https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js
-    vue: https://cdn.jsdelivr.net/npm/vue@2.5.21/dist/vue.min.js
-    # When these CDN resources are deleted, local resources are loaded.
-    common: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/common.js
-    escape: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/css.escape.js
-    smooth_scroll: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/smooth-scroll.min.js
-    css: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/css/style.min.css
-    # Optional plug-in: image zoom
-    fancybox:
-        css: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css
-        js: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js
-
-# robots meta tag
-robots: noindex,nofollow
-
-# the footer of your site
-copyright: "[Copyright © 2017-2020 Mr. X](https://xaoxuu.com)"
-```
+- 浙江大学学业三等奖学金

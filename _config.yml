@@ -145,7 +145,7 @@ all_minifier: true
 
 # 图片懒加载
 lazyload:
-  enable: true
+  enable: false
   onlypost: false
   loadingImg: https://img.vim-cn.com/92/d570170f4f12e1ee829ca0e85a7dffeb77343a.svg
 
@@ -156,7 +156,7 @@ lazyload:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   - type: git
-    repo: git@github.com:xaoxuu/resume.js.org.git
+    repo: git@github.com:jiacheng-pan/jiacheng-pan.github.io.git
     branch: master
     message: update pages
 
