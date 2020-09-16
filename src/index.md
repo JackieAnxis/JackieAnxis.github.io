@@ -151,7 +151,7 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 
 #### RankBrushers: interactive analysis of temporal ranking ensembles
 
-[`JOV`](https://link.springer.com/article/10.1007/s12650-019-00598-x) [`📄 PDF`](https://www.researchgate.net/profile/Dongming_Han/publication/336005458_RankBrushers_interactive_analysis_of_temporal_ranking_ensembles/links/5eba2dec92851cd50dab5b36/RankBrushers-interactive-analysis-of-temporal-ranking-ensembles.pdf)
+[`JOV`](https://link.springer.com/article/10.1007/s12650-019-00598-x) [`📄 PDF`](https://www.researchgate.net/profile/Dongming_Han/publication/336005458_RankBrushers_interactive_analysis_of_temporal_ranking_ensembles/links/5eba2dec92851cd50dab5b36/RankBrushers-interactive-analysis-of-temporal-ranking-ensembles.pdf) [`🎥 VIDEO`](https://jackie-files.oss-cn-hangzhou.aliyuncs.com/9999/ChinaVis_1185.mp4)
 
 <fancybox>
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-45-04.png'>
