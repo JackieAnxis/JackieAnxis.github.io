@@ -90,11 +90,19 @@
 
       ```styl
       // font faces
-      $body-font = Corbel, Courier, Menlo, Monaco, "Helvetica Neue", Arial, sans-serif
-      $logo-font = Corbel, Courier, Menlo, Monaco, "Helvetica Neue", Arial, sans-serif, cursive
+      $body-font = Corbel, Menlo, Monaco, Courier, "Helvetica Neue", Arial, sans-serif
+      $logo-font = Corbel, Menlo, Monaco, Courier, "Helvetica Neue", Arial, sans-serif, cursive
       $code-font = Consolas, Menlo, Monaco, courier, monospace, Arial, sans-serif
 
       // font sizes
       $body-font-size = 1em
       $code-font-size = 0.8em
+      ```
+
+   7. div.btns: `source\css\page.styl`
+      ```styl
+      .content
+         ...
+         .btns
+            text-align: left
       ```

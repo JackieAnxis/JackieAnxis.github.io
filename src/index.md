@@ -40,7 +40,11 @@ contact:
 </grid>
 {% endraw %}
 
+<div class="btns">
+
 [`🌏 Homepage`](http://panjiacheng.site) [`✉️ panjiacheng@zju.edu.cn`](mailto:panjiacheng@zju.edu.cn) [`🤖 Github`](https://github.com/JackieAnxis) [`💻 Blog`](http://panjiacheng.site/blog)
+
+</div>
 
 ## <i class="fas fa-flag"></i> Personal Information
 
@@ -88,7 +92,11 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 
 #### Exemplar-based Layout Fine-tuning for Node-link Diagrams
 
+<div class="btns">
+
 `InfoVIS` [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/7d531afa561ac4fa5febffe0cb95e38477f73241.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4) [`📌 SUPPL.`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/cca9e7fdb68b9cc8de1f7e808c57cfbb1877f3bf.pdf) [`🔗 ARXIV`](https://arxiv.org/abs/2008.00666)
+
+</div>
 
 <fancybox>
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_19-29-50.png'>
@@ -102,7 +110,11 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 
 #### iNet: Visual Analysis of Irregular Transition in Multivariate Dynamic Networks
 
+<div class="btns">
+
 `FCS`
+
+</div>
 
 <fancybox>
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-59-37.png'>
@@ -116,7 +128,11 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 
 #### RCAnalyzer: Visual Analytics of Rare Categories in Dynamic Networks
 
+<div class="btns">
+
 [`FITEE`](http://www.jzus.zju.edu.cn/article.php?doi=10.1631/FITEE.1900310) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/RCAnalyzer-Visual%20Analytics%20of%20Rare%20Categories%20in%20Dynamic%20Networks.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/videos/RCAnalyzer-Visual%20Analytics%20of%20Rare%20Categories%20in%20Dynamic%20Networks.mp4)
+
+</div>
 
 <fancybox>
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-56-28.png'>
@@ -143,7 +159,11 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 
 #### Structure-based suggestive exploration: A new approach for effective exploration of large networks
 
+<div class="btns">
+
 [`IEEE TVCG`](https://ieeexplore.ieee.org/abstract/document/8440813/) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/Structure-Based%20Suggestive%20Exploration.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/videos/Structure-Based%20Suggestive%20Exploration-A%20New%20Approach%20for%20Effective%20Exploration%20of%20Large%20Networks.mp4) [`📰 SLIDES`](http://www.cad.zju.edu.cn/home/vagblog/slides/201907/vis2018berlin.pdf) [`👨‍🏫 PRESENTATION`](https://vimeo.com/299856392) [`👨‍💻 CODE`](https://github.com/ZJUVAG/S3)
+
+</div>
 
 <fancybox>
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-32-59.png'>
@@ -157,7 +177,11 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 
 #### RankBrushers: interactive analysis of temporal ranking ensembles
 
+<div class="btns">
+
 [`JOV`](https://link.springer.com/article/10.1007/s12650-019-00598-x) [`📄 PDF`](https://www.researchgate.net/profile/Dongming_Han/publication/336005458_RankBrushers_interactive_analysis_of_temporal_ranking_ensembles/links/5eba2dec92851cd50dab5b36/RankBrushers-interactive-analysis-of-temporal-ranking-ensembles.pdf) [`🎥 VIDEO`](https://jackie-files.oss-cn-hangzhou.aliyuncs.com/9999/ChinaVis_1185.mp4)
+
+</div>
 
 <fancybox>
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-45-04.png'>
