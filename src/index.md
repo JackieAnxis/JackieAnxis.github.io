@@ -18,10 +18,14 @@ contact:
   - icon: fas fa-envelope
     text: panjiacheng@zju.edu.cn
     url: mailto:panjiacheng@zju.edu.cn
-  # Phone Number
+  # Github
   - icon: fab fa-github-alt
     text: JackieAnxis
     url: https://github.com/JackieAnxis
+  # Blog
+  - icon: fas fa-blog
+    text: Blog
+    url: http://panjiacheng.site/blog
 ---
 
 {% raw %}
