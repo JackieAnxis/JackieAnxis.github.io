@@ -101,7 +101,7 @@ contact:
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_19-29-50.png'>
 </fancybox>
 
-- 作者: **Jiacheng Pan**, Wei Chen, Xiaodong Zhao, Shuyue Zhou, Wei Zeng, Minfeng Zhu, Jian Chen, Siwei Fu, Yingcai Wu
+- 作者: <u>**Jiacheng Pan**</u>, Wei Chen, Xiaodong Zhao, Shuyue Zhou, Wei Zeng, Minfeng Zhu, Jian Chen, Siwei Fu, Yingcai Wu
 - 发表刊物: IEEE InfoVIS (CCF-A)
 - 关键词: `Node-link Diagram` `Graph Layout` `Graph Visualization` `User Interactions`
 
@@ -119,7 +119,7 @@ contact:
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-59-37.png'>
 </fancybox>
 
-- 作者: Dongming Han, **Jiacheng Pan**, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
+- 作者: Dongming Han, <u>**Jiacheng Pan**</u>, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
 - 发表刊物: Frontiers of Computer Science (SCI)
 - 关键词: `Multivariate Dynamic Networks` `Rare Categories` `Anomaly Detection` `Visual Analysis`
 
@@ -137,7 +137,7 @@ contact:
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-56-28.png'>
 </fancybox>
 
-- 作者: **Jiacheng Pan**, Dongming Han, Fangzhou Guo, Dawei Zhou, Nan Cao, Jingrui He, Wei Chen
+- 作者: <u>**Jiacheng Pan**</u>, Dongming Han, Fangzhou Guo, Dawei Zhou, Nan Cao, Jingrui He, Wei Chen
 - 发表刊物: Frontiers of Information Technology & Electronic Engineering (SCI)
 - 关键词: `Rare Category Detection` `Dynamic Network` `Visual Analytics`
 
@@ -168,7 +168,7 @@ contact:
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-32-59.png'>
 </fancybox>
 
-- 作者: Wei Chen, Fangzhou Guo, Dongming Han, **Jacheng Pan**, Xiaotao Nie, Jiazhi Xia, Xiaolong Zhang
+- 作者: Wei Chen, Fangzhou Guo, Dongming Han, <u>**Jacheng Pan**</u>, Xiaotao Nie, Jiazhi Xia, Xiaolong Zhang
 - 发表刊物: IEEE Transactions on Visualization and Computer Graphics (CCF-A)
 - 关键词: `Large Network Exploration` `Structure-Based Exploration` `Suggestive Exploration`
 
@@ -186,7 +186,7 @@ contact:
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-45-04.png'>
 </fancybox>
 
-- 作者: Dongming Han, **Jiacheng Pan**, Fangzhou Guo, Xiaonan Luo, Yingcai Wu, Wenting Zheng, Wei Chen
+- 作者: Dongming Han, <u>**Jiacheng Pan**</u>, Fangzhou Guo, Xiaonan Luo, Yingcai Wu, Wenting Zheng, Wei Chen
 - 发表刊物: Journal of Visualization
 - 关键词: `Visualization` `Temporal Ranking Ensembles` `Uncertainty`
 

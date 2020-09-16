@@ -102,7 +102,7 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_19-29-50.png'>
 </fancybox>
 
-- Authors: **Jiacheng Pan**, Wei Chen, Xiaodong Zhao, Shuyue Zhou, Wei Zeng, Minfeng Zhu, Jian Chen, Siwei Fu, Yingcai Wu
+- Authors: <u>**Jiacheng Pan**</u>, Wei Chen, Xiaodong Zhao, Shuyue Zhou, Wei Zeng, Minfeng Zhu, Jian Chen, Siwei Fu, Yingcai Wu
 - Publication: IEEE InfoVIS
 - Keywords: `Node-link Diagram` `Graph Layout` `Graph Visualization` `User Interactions`
 
@@ -120,7 +120,7 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-59-37.png'>
 </fancybox>
 
-- Authors: Dongming Han, **Jiacheng Pan**, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
+- Authors: Dongming Han, <u>**Jiacheng Pan**</u>, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
 - Publication: Frontiers of Computer Science
 - Keywords: `Multivariate Dynamic Networks` `Rare Categories` `Anomaly Detection` `Visual Analysis`
 
@@ -138,7 +138,7 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-56-28.png'>
 </fancybox>
 
-- Authors: **Jiacheng Pan**, Dongming Han, Fangzhou Guo, Dawei Zhou, Nan Cao, Jingrui He, Wei Chen
+- Authors: <u>**Jiacheng Pan**</u>, Dongming Han, Fangzhou Guo, Dawei Zhou, Nan Cao, Jingrui He, Wei Chen
 - Publication: Frontiers of Information Technology & Electronic Engineering
 - Keywords: `Rare Category Detection` `Dynamic Network` `Visual Analytics`
 
@@ -169,7 +169,7 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-32-59.png'>
 </fancybox>
 
-- Authors: Wei Chen, Fangzhou Guo, Dongming Han, **Jacheng Pan**, Xiaotao Nie, Jiazhi Xia, Xiaolong Zhang
+- Authors: Wei Chen, Fangzhou Guo, Dongming Han, <u>**Jacheng Pan**</u>, Xiaotao Nie, Jiazhi Xia, Xiaolong Zhang
 - Publication: IEEE Transactions on Visualization and Computer Graphics
 - Keywords: `Large Network Exploration` `Structure-Based Exploration` `Suggestive Exploration`
 
@@ -187,7 +187,7 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-45-04.png'>
 </fancybox>
 
-- Authors: Dongming Han, **Jiacheng Pan**, Fangzhou Guo, Xiaonan Luo, Yingcai Wu, Wenting Zheng, Wei Chen
+- Authors: Dongming Han, <u>**Jiacheng Pan**</u>, Fangzhou Guo, Xiaonan Luo, Yingcai Wu, Wenting Zheng, Wei Chen
 - Publication: Journal of Visualization
 - Keywords: `Visualization` `Temporal Ranking Ensembles` `Uncertainty`
 
