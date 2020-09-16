@@ -40,6 +40,8 @@ contact:
 </grid>
 {% endraw %}
 
+[`🌏 Homepage`](http://panjiacheng.site) [`✉️ panjiacheng@zju.edu.cn`](mailto:panjiacheng@zju.edu.cn) [`🤖 Github`](https://github.com/JackieAnxis) [`💻 Blog`](http://panjiacheng.site/blog)
+
 ## <i class="fas fa-flag"></i> Personal Information
 
 Jiacheng Pan is now a Ph.D. student in [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/), China. His current research interests include visualization, visual analytics. From 2013 to 2017, he was an undergraduate student in Zhejiang University. Thereafter he received his Bachelor's degree and became a Master student in State Key Lab of CAD&CG at Zhejiang University. In September, 2019, he became a Ph.D. student under Professor [Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/index.html).

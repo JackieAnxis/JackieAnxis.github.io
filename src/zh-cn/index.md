@@ -39,6 +39,8 @@ contact:
 </grid>
 {% endraw %}
 
+[`🌏 主页`](http://panjiacheng.site/zh-cn) [`✉️ panjiacheng@zju.edu.cn`](mailto:panjiacheng@zju.edu.cn) [`🤖 Github`](https://github.com/JackieAnxis) [`💻 博客`](http://panjiacheng.site/blog)
+
 ## <i class="fas fa-flag"></i> 个人信息
 
 潘嘉铖目前是一名[浙江大学](http://www.zju.edu.cn/)[计算机辅助设计与图形学（CAD&CG）国家重点实验室](http://www.cad.zju.edu.cn/)的博士生。他当前的研究兴趣包括可视化和可视分析。从 2013 年到 2017 年，他是浙江大学的一个本科学生。之后，他获得了工学学士学位，然后成为了一名 CAD&CG 实验室的硕士学生。2019 年 9 月，他成为了[陈为](http://www.cad.zju.edu.cn/home/chenwei/index.html)教授的一名博士学生。
