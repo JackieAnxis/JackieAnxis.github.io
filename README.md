@@ -64,6 +64,7 @@
          margin: $h4-margin-top 0 0
          color: $medium
          text-align: left
+         font-size: 1.2em
       ```
 
    4. li: `source\css\page.styl`
@@ -73,4 +74,27 @@
          ...
          li
          text-align: left
+      ```
+
+   5. h3: `source\css\page.styl`
+
+      ```styl
+      h3
+         margin: $h3-margin-top 0 0
+         line-height: 1.2
+         position: relative
+         font-size: 1.6em
+      ```
+
+   6. font: `source\css\_settings.styl`
+
+      ```styl
+      // font faces
+      $body-font = Corbel, Courier, Menlo, Monaco, "Helvetica Neue", Arial, sans-serif
+      $logo-font = Corbel, Courier, Menlo, Monaco, "Helvetica Neue", Arial, sans-serif, cursive
+      $code-font = Consolas, Menlo, Monaco, courier, monospace, Arial, sans-serif
+
+      // font sizes
+      $body-font-size = 1em
+      $code-font-size = 0.8em
       ```

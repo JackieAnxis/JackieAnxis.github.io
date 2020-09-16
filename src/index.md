@@ -26,7 +26,7 @@ contact:
 
 {% raw %}
 <grid>
-<avatar><img src="https://avatars2.githubusercontent.com/u/19246028?s=460&u=8d4f9462069e17c42c9f7e460369ac703146ceb9&v=4"></avatar>
+<avatar><img src="https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_12-03-42.png"></avatar>
 
 <h1>Jiacheng Pan</h1>
 <center>
@@ -38,7 +38,7 @@ contact:
 
 ## <i class="fas fa-flag"></i> Personal Information
 
-Jiacheng Pan is now a Ph.D. student in [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/), China. His current research interests include visualization, visual analytics. From 2013 to 2017, he was an undergraduate student in Zhejiang University. Thereafter he got his Bachelor's degree and became a Master student in State Key Lab of CAD&CG at Zhejiang University. In September, 2019, he became a Ph.D. student under Professor [Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/index.html).
+Jiacheng Pan is now a Ph.D. student in [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/), China. His current research interests include visualization, visual analytics. From 2013 to 2017, he was an undergraduate student in Zhejiang University. Thereafter he received his Bachelor's degree and became a Master student in State Key Lab of CAD&CG at Zhejiang University. In September, 2019, he became a Ph.D. student under Professor [Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/index.html).
 
 - Personal Page: http://panjiacheng.site/
 - Github: https://github.com/JackieAnxis
@@ -82,14 +82,14 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 
 #### Exemplar-based Layout Fine-tuning for Node-link Diagrams
 
-`InfoVis` [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/7d531afa561ac4fa5febffe0cb95e38477f73241.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4) [`📌 SUPPL.`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/cca9e7fdb68b9cc8de1f7e808c57cfbb1877f3bf.pdf) [`🔗 ARXIV`](https://arxiv.org/abs/2008.00666)
+`InfoVIS` [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/7d531afa561ac4fa5febffe0cb95e38477f73241.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4) [`📌 SUPPL.`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/cca9e7fdb68b9cc8de1f7e808c57cfbb1877f3bf.pdf) [`🔗 ARXIV`](https://arxiv.org/abs/2008.00666)
 
 <fancybox>
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_19-29-50.png'>
 </fancybox>
 
 - Authors: **Jiacheng Pan**, Wei Chen, Xiaodong Zhao, Shuyue Zhou, Wei Zeng, Minfeng Zhu, Jian Chen, Siwei Fu, Yingcai Wu
-- Publication: IEEE InfoVis
+- Publication: IEEE InfoVIS
 - Keywords: `Node-link Diagram` `Graph Layout` `Graph Visualization` `User Interactions`
 
 ---
@@ -102,7 +102,7 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-59-37.png'>
 </fancybox>
 
-- Authors: Dongming Han, **Jiacheng Pan**, Rusheng Pan, Dawei Zhou,Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
+- Authors: Dongming Han, **Jiacheng Pan**, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
 - Publication: Frontiers of Computer Science
 - Keywords: `Multivariate Dynamic Networks` `Rare Categories` `Anomaly Detection` `Visual Analysis`
 
@@ -116,7 +116,7 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-56-28.png'>
 </fancybox>
 
-- Authors: **Jiacheng Pan**, Dongming Han, Fangzhou Guo, Dawei Zhou, Nan, Cao, Jingrui He, Wei Chen
+- Authors: **Jiacheng Pan**, Dongming Han, Fangzhou Guo, Dawei Zhou, Nan Cao, Jingrui He, Wei Chen
 - Publication: Frontiers of Information Technology & Electronic Engineering
 - Keywords: `Rare Category Detection` `Dynamic Network` `Visual Analytics`
 
@@ -217,7 +217,7 @@ A Large Scale **Net**work **V**isualization Library
 
 #### 2019
 
-- Freshman Doctoral Student Scholarship of Zhejiang University
+- Freshmen Scholarship of Zhejiang University
 
 #### 2018
 
@@ -232,10 +232,10 @@ A Large Scale **Net**work **V**isualization Library
 #### 2016
 
 - Zhejiang Daily & Alibaba New Media Scholarship
-- Second-Class Scholarship of Zhejiang University
+- Second-Class Scholarship for Outstanding Merits of Zhejiang University
 - Silver Award of the Second China "Internet+" College Students Innovation and Entrepreneurship Competition
 - Gold Award of the Second China College Students' Entrepreneurship Competition
 
 #### 2015
 
-- Third-Class Scholarship of Zhejiang University
+- Third-Class Scholarship for Outstanding Merits of Zhejiang University
