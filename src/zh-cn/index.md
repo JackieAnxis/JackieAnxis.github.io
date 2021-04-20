@@ -10,21 +10,21 @@ resume_title: 潘嘉铖的个人主页
 name: 潘嘉铖
 # 联系方式
 contact:
-  - icon: fas fa-globe-asia
-    text: http://panjiacheng.site/
-    url: http://panjiacheng.site/zh-cn/
-  # 邮箱
-  - icon: fas fa-envelope
-    text: panjiacheng@zju.edu.cn
-    url: mailto:panjiacheng@zju.edu.cn
-  # Github
-  - icon: fab fa-github-alt
-    text: JackieAnxis
-    url: https://github.com/JackieAnxis
-  # Blog
-  - icon: fas fa-blog
-    text: 博客
-    url: http://panjiacheng.site/blog
+    - icon: fas fa-globe-asia
+      text: http://panjiacheng.site/
+      url: http://panjiacheng.site/zh-cn/
+    # 邮箱
+    - icon: fas fa-envelope
+      text: panjiacheng@zju.edu.cn
+      url: mailto:panjiacheng@zju.edu.cn
+    # Github
+    - icon: fab fa-github-alt
+      text: JackieAnxis
+      url: https://github.com/JackieAnxis
+    # Blog
+    - icon: fas fa-blog
+      text: 博客
+      url: http://panjiacheng.site/blog
 ---
 
 {% raw %}
@@ -49,9 +49,9 @@ contact:
 
 潘嘉铖目前是一名[浙江大学](http://www.zju.edu.cn/)[计算机辅助设计与图形学（CAD&CG）国家重点实验室](http://www.cad.zju.edu.cn/)的博士生。他当前的研究兴趣包括可视化和可视分析。从 2013 年到 2017 年，他是浙江大学的一个本科学生。之后，他获得了工学学士学位，然后成为了一名 CAD&CG 实验室的硕士学生。2019 年 9 月，他成为了[陈为](http://www.cad.zju.edu.cn/home/chenwei/index.html)教授的一名博士学生。
 
-- 个人主页: http://panjiacheng.site/
-- Github: https://github.com/JackieAnxis
-- 浙江大学可视分析小组: https://zjuvag.org/
+-   个人主页: http://panjiacheng.site/
+-   Github: https://github.com/JackieAnxis
+-   浙江大学可视分析小组: https://zjuvag.org/
 
 ## <i class="fas fa-user-graduate"></i> 教育经历
 
@@ -61,8 +61,8 @@ contact:
 
 研究方向: 可视化与可视分析
 
-- 实验室: CAD&CG 国家重点实验室
-- 学院: 计算机科学与技术学院
+-   实验室: CAD&CG 国家重点实验室
+-   学院: 计算机科学与技术学院
 
 ### 2017 ~ 2019: 硕士研究生
 
@@ -70,8 +70,8 @@ contact:
 
 研究方向: 可视化与可视分析
 
-- 实验室: CAD&CG 国家重点实验室
-- 学院: 计算机科学与技术学院
+-   实验室: CAD&CG 国家重点实验室
+-   学院: 计算机科学与技术学院
 
 ### 2013 ~ 2017: 本科生
 
@@ -79,13 +79,33 @@ contact:
 
 主修: 软件工程
 
-- 学院: 计算机科学与技术学院
+-   学院: 计算机科学与技术学院
 
 辅修: 创新与创业管理强化班
 
-- 学院: 竺可桢荣誉学院
+-   学院: 竺可桢荣誉学院
 
 ## <i class="fas fa-book"></i> 论文发表
+
+### 2021
+
+#### NetV.js: A web-based library for high-efficiency visualization of large-scale graphs and networks
+
+<div class="btns">
+
+[`VI`](https://www.sciencedirect.com/science/article/pii/S2468502X21000048) [`📄 PDF`](https://www.sciencedirect.com/science/article/pii/S2468502X21000048/pdfft?md5=e26957f0ca1bde3d2ecb06f2fe857519&pid=1-s2.0-S2468502X21000048-main.pdf) [`🔗 WEBSITE`](http://netv.zjuvag.org/)
+
+</div>
+
+<fancybox>
+<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/Snipaste_2021-04-20_11-09-06.jpg'>
+</fancybox>
+
+-   作者: Dongming Han,<u>** Jiacheng Pan**</u>, Xiaodong Zhao and Wei Chen
+-   发表刊物: Visual Informatics
+-   关键词: `Graph` `Graph Visualization` `Network Visualization` `Node-link diagram`
+
+---
 
 ### 2020
 
@@ -93,7 +113,7 @@ contact:
 
 <div class="btns">
 
-`InfoVIS` [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/7d531afa561ac4fa5febffe0cb95e38477f73241.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4) [`📌 SUPPL.`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/cca9e7fdb68b9cc8de1f7e808c57cfbb1877f3bf.pdf) [`🔗 ARXIV`](https://arxiv.org/abs/2008.00666)
+[`IEEE TVCG`](https://ieeexplore.ieee.org/document/9240072) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/7d531afa561ac4fa5febffe0cb95e38477f73241.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4) [`📌 SUPPL.`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/cca9e7fdb68b9cc8de1f7e808c57cfbb1877f3bf.pdf) [`🔗 ARXIV`](https://arxiv.org/abs/2008.00666)
 
 </div>
 
@@ -101,9 +121,9 @@ contact:
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_19-29-50.png'>
 </fancybox>
 
-- 作者: <u>**Jiacheng Pan**</u>, Wei Chen, Xiaodong Zhao, Shuyue Zhou, Wei Zeng, Minfeng Zhu, Jian Chen, Siwei Fu, Yingcai Wu
-- 发表刊物: IEEE InfoVIS (CCF-A)
-- 关键词: `Node-link Diagram` `Graph Layout` `Graph Visualization` `User Interactions`
+-   作者: <u>**Jiacheng Pan**</u>, Wei Chen, Xiaodong Zhao, Shuyue Zhou, Wei Zeng, Minfeng Zhu, Jian Chen, Siwei Fu, Yingcai Wu
+-   发表刊物: IEEE TVCG (CCF-A)
+-   关键词: `Node-link Diagram` `Graph Layout` `Graph Visualization` `User Interactions`
 
 ---
 
@@ -119,9 +139,9 @@ contact:
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-59-37.png'>
 </fancybox>
 
-- 作者: Dongming Han, <u>**Jiacheng Pan**</u>, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
-- 发表刊物: Frontiers of Computer Science (SCI)
-- 关键词: `Multivariate Dynamic Networks` `Rare Categories` `Anomaly Detection` `Visual Analysis`
+-   作者: Dongming Han, <u>**Jiacheng Pan**</u>, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
+-   发表刊物: Frontiers of Computer Science (SCI)，已接受
+-   关键词: `Multivariate Dynamic Networks` `Rare Categories` `Anomaly Detection` `Visual Analysis`
 
 ---
 
@@ -137,9 +157,9 @@ contact:
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-56-28.png'>
 </fancybox>
 
-- 作者: <u>**Jiacheng Pan**</u>, Dongming Han, Fangzhou Guo, Dawei Zhou, Nan Cao, Jingrui He, Wei Chen
-- 发表刊物: Frontiers of Information Technology & Electronic Engineering (SCI)
-- 关键词: `Rare Category Detection` `Dynamic Network` `Visual Analytics`
+-   作者: <u>**Jiacheng Pan**</u>, Dongming Han, Fangzhou Guo, Dawei Zhou, Nan Cao, Jingrui He, Wei Chen
+-   发表刊物: Frontiers of Information Technology & Electronic Engineering (SCI)
+-   关键词: `Rare Category Detection` `Dynamic Network` `Visual Analytics`
 
 ---
 
@@ -168,9 +188,9 @@ contact:
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-32-59.png'>
 </fancybox>
 
-- 作者: Wei Chen, Fangzhou Guo, Dongming Han, <u>**Jacheng Pan**</u>, Xiaotao Nie, Jiazhi Xia, Xiaolong Zhang
-- 发表刊物: IEEE Transactions on Visualization and Computer Graphics (CCF-A)
-- 关键词: `Large Network Exploration` `Structure-Based Exploration` `Suggestive Exploration`
+-   作者: Wei Chen, Fangzhou Guo, Dongming Han, <u>**Jacheng Pan**</u>, Xiaotao Nie, Jiazhi Xia, Xiaolong Zhang
+-   发表刊物: IEEE Transactions on Visualization and Computer Graphics (CCF-A)
+-   关键词: `Large Network Exploration` `Structure-Based Exploration` `Suggestive Exploration`
 
 ---
 
@@ -186,9 +206,9 @@ contact:
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-45-04.png'>
 </fancybox>
 
-- 作者: Dongming Han, <u>**Jiacheng Pan**</u>, Fangzhou Guo, Xiaonan Luo, Yingcai Wu, Wenting Zheng, Wei Chen
-- 发表刊物: Journal of Visualization
-- 关键词: `Visualization` `Temporal Ranking Ensembles` `Uncertainty`
+-   作者: Dongming Han, <u>**Jiacheng Pan**</u>, Fangzhou Guo, Xiaonan Luo, Yingcai Wu, Wenting Zheng, Wei Chen
+-   发表刊物: Journal of Visualization
+-   关键词: `Visualization` `Temporal Ranking Ensembles` `Uncertainty`
 
 <!--
 
@@ -233,38 +253,38 @@ NetV.js
 
 一个大规模图可视化的工具
 
-- 主要使用 `TypeScript` 开发
-- Github: https://github.com/ZJUVAG/NetV.js/
+-   主要使用 `TypeScript` 开发
+-   Github: https://github.com/ZJUVAG/NetV.js/
 
 ## <i class="fas fa-user-tie"></i> 工作经历
 
 #### 2019 ~ 现在: [Zhejiang Lab](http://www.zhejianglab.com/) 实习
 
-- 主要负责一个大规模图可视化的项目
+-   主要负责一个大规模图可视化的项目
 
 ## <i class="fas fa-award"></i> 奖励和奖学金
 
 #### 2019
 
-- 浙江大学博士新生奖学金
+-   浙江大学博士新生奖学金
 
 #### 2018
 
-- 浙江大学蒋震奖学金
+-   浙江大学蒋震奖学金
 
 #### 2017
 
-- 卓越系列人才培养计划荣誉证书
-- 未来领袖之星
-- 浙江大学蒋震奖学金
+-   卓越系列人才培养计划荣誉证书
+-   未来领袖之星
+-   浙江大学蒋震奖学金
 
 #### 2016
 
-- 浙报阿里新媒体奖学金
-- 浙江大学学业二等奖学金
-- 第二届中国大学生“互联网+”创业大赛银奖
-- 第二届中国大学生“创青春”创业大赛金奖
+-   浙报阿里新媒体奖学金
+-   浙江大学学业二等奖学金
+-   第二届中国大学生“互联网+”创业大赛银奖
+-   第二届中国大学生“创青春”创业大赛金奖
 
 #### 2015
 
-- 浙江大学学业三等奖学金
+-   浙江大学学业三等奖学金
