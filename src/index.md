@@ -88,13 +88,32 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 
 ## <i class="fas fa-book"></i> Publications
 
+### 2021
+
+#### NetV.js: A web-based library for high-efficiency visualization of large-scale graphs and networks
+
+<div class="btns">
+[`VI`](https://www.sciencedirect.com/science/article/pii/S2468502X21000048) [`📄 PDF`](https://www.sciencedirect.com/science/article/pii/S2468502X21000048/pdfft?md5=e26957f0ca1bde3d2ecb06f2fe857519&pid=1-s2.0-S2468502X21000048-main.pdf) [`🔗 WEBSITE`](http://netv.zjuvag.org/)
+
+</div>
+
+<fancybox>
+<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/Snipaste_2021-04-20_11-09-06.jpg'>
+</fancybox>
+
+- Authors: Dongming Han,<u>** Jiacheng Pan**</u>, Xiaodong Zhao and Wei Chen
+- Publication: Visual Informatics
+- Keywords: `Graph` `Graph Visualization` `Network Visualization` `Node-link diagram`
+
+---
+
+
 ### 2020
 
 #### Exemplar-based Layout Fine-tuning for Node-link Diagrams
 
 <div class="btns">
-
-`InfoVIS` [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/7d531afa561ac4fa5febffe0cb95e38477f73241.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4) [`📌 SUPPL.`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/cca9e7fdb68b9cc8de1f7e808c57cfbb1877f3bf.pdf) [`🔗 ARXIV`](https://arxiv.org/abs/2008.00666)
+[`IEEE TVCG`](https://ieeexplore.ieee.org/document/9240072) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/7d531afa561ac4fa5febffe0cb95e38477f73241.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4) [`📌 SUPPL.`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/cca9e7fdb68b9cc8de1f7e808c57cfbb1877f3bf.pdf) [`🔗 ARXIV`](https://arxiv.org/abs/2008.00666)
 
 </div>
 
@@ -103,7 +122,7 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 </fancybox>
 
 - Authors: <u>**Jiacheng Pan**</u>, Wei Chen, Xiaodong Zhao, Shuyue Zhou, Wei Zeng, Minfeng Zhu, Jian Chen, Siwei Fu, Yingcai Wu
-- Publication: IEEE InfoVIS
+- Publication: IEEE TVCG
 - Keywords: `Node-link Diagram` `Graph Layout` `Graph Visualization` `User Interactions`
 
 ---
