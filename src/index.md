@@ -10,22 +10,22 @@ resume_title: Jiacheng Pan's Resume
 name: Jiacheng Pan
 # Contact
 contact:
-  # URL
-  - icon: fas fa-globe-europe
-    text: http://panjiacheng.site/
-    url: http://panjiacheng.site/
-  # Email
-  - icon: fas fa-envelope
-    text: panjiacheng@zju.edu.cn
-    url: mailto:panjiacheng@zju.edu.cn
-  # Github
-  - icon: fab fa-github-alt
-    text: JackieAnxis
-    url: https://github.com/JackieAnxis
-  # Blog
-  - icon: fas fa-blog
-    text: Blog
-    url: http://panjiacheng.site/blog
+    # URL
+    - icon: fas fa-globe-europe
+      text: http://panjiacheng.site/
+      url: http://panjiacheng.site/
+    # Email
+    - icon: fas fa-envelope
+      text: panjiacheng@zju.edu.cn
+      url: mailto:panjiacheng@zju.edu.cn
+    # Github
+    - icon: fab fa-github-alt
+      text: JackieAnxis
+      url: https://github.com/JackieAnxis
+    # Blog
+    - icon: fas fa-blog
+      text: Blog
+      url: http://panjiacheng.site/blog
 ---
 
 {% raw %}
@@ -50,9 +50,9 @@ contact:
 
 Jiacheng Pan is now a Ph.D. student in [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/), China. His current research interests include visualization, visual analytics. From 2013 to 2017, he was an undergraduate student in Zhejiang University. Thereafter he received his Bachelor's degree and became a Master student in State Key Lab of CAD&CG at Zhejiang University. In September, 2019, he became a Ph.D. student under Professor [Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/index.html).
 
-- Personal Page: http://panjiacheng.site/
-- Github: https://github.com/JackieAnxis
-- Visual Analytics Group of ZJU: https://zjuvag.org/
+-   Personal Page: http://panjiacheng.site/
+-   Github: https://github.com/JackieAnxis
+-   Visual Analytics Group of ZJU: https://zjuvag.org/
 
 ## <i class="fas fa-user-graduate"></i> Education
 
@@ -62,8 +62,8 @@ Jiacheng Pan is now a Ph.D. student in [State Key Lab of CAD&CG](http://www.cad.
 
 Major: Visualization and Visual Analytics
 
-- Lab: State Key Lab of CAD&CG
-- College: College of Computer Science and Technology
+-   Lab: State Key Lab of CAD&CG
+-   College: College of Computer Science and Technology
 
 ### 2017 ~ 2019: Master
 
@@ -71,8 +71,8 @@ Major: Visualization and Visual Analytics
 
 Major: Visualization and Visual Analytics
 
-- Lab: State Key Lab of CAD&CG
-- College: College of Computer Science and Technology
+-   Lab: State Key Lab of CAD&CG
+-   College: College of Computer Science and Technology
 
 ### 2013 ~ 2017: Bachelor
 
@@ -80,11 +80,11 @@ Major: Visualization and Visual Analytics
 
 Major: Software Engineering
 
-- College: College of Computer Science and Technology
+-   College: College of Computer Science and Technology
 
 Minor: Intensive Training Program of Innovation and Entrepreneurship
 
-- College: Chu Kochen Honors College
+-   College: Chu Kochen Honors College
 
 ## <i class="fas fa-book"></i> Publications
 
@@ -93,6 +93,7 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 #### NetV.js: A web-based library for high-efficiency visualization of large-scale graphs and networks
 
 <div class="btns">
+
 [`VI`](https://www.sciencedirect.com/science/article/pii/S2468502X21000048) [`📄 PDF`](https://www.sciencedirect.com/science/article/pii/S2468502X21000048/pdfft?md5=e26957f0ca1bde3d2ecb06f2fe857519&pid=1-s2.0-S2468502X21000048-main.pdf) [`🔗 WEBSITE`](http://netv.zjuvag.org/)
 
 </div>
@@ -101,18 +102,18 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/Snipaste_2021-04-20_11-09-06.jpg'>
 </fancybox>
 
-- Authors: Dongming Han,<u>** Jiacheng Pan**</u>, Xiaodong Zhao and Wei Chen
-- Publication: Visual Informatics
-- Keywords: `Graph` `Graph Visualization` `Network Visualization` `Node-link diagram`
+-   Authors: Dongming Han,<u>** Jiacheng Pan**</u>, Xiaodong Zhao and Wei Chen
+-   Publication: Visual Informatics
+-   Keywords: `Graph` `Graph Visualization` `Network Visualization` `Node-link diagram`
 
 ---
-
 
 ### 2020
 
 #### Exemplar-based Layout Fine-tuning for Node-link Diagrams
 
 <div class="btns">
+
 [`IEEE TVCG`](https://ieeexplore.ieee.org/document/9240072) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/7d531afa561ac4fa5febffe0cb95e38477f73241.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4) [`📌 SUPPL.`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/cca9e7fdb68b9cc8de1f7e808c57cfbb1877f3bf.pdf) [`🔗 ARXIV`](https://arxiv.org/abs/2008.00666)
 
 </div>
@@ -121,9 +122,9 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_19-29-50.png'>
 </fancybox>
 
-- Authors: <u>**Jiacheng Pan**</u>, Wei Chen, Xiaodong Zhao, Shuyue Zhou, Wei Zeng, Minfeng Zhu, Jian Chen, Siwei Fu, Yingcai Wu
-- Publication: IEEE TVCG
-- Keywords: `Node-link Diagram` `Graph Layout` `Graph Visualization` `User Interactions`
+-   Authors: <u>**Jiacheng Pan**</u>, Wei Chen, Xiaodong Zhao, Shuyue Zhou, Wei Zeng, Minfeng Zhu, Jian Chen, Siwei Fu, Yingcai Wu
+-   Publication: IEEE TVCG
+-   Keywords: `Node-link Diagram` `Graph Layout` `Graph Visualization` `User Interactions`
 
 ---
 
@@ -131,7 +132,7 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 
 <div class="btns">
 
-`FCS`
+`FCS (Accepted)`
 
 </div>
 
@@ -139,9 +140,9 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-59-37.png'>
 </fancybox>
 
-- Authors: Dongming Han, <u>**Jiacheng Pan**</u>, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
-- Publication: Frontiers of Computer Science
-- Keywords: `Multivariate Dynamic Networks` `Rare Categories` `Anomaly Detection` `Visual Analysis`
+-   Authors: Dongming Han, <u>**Jiacheng Pan**</u>, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
+-   Publication: Frontiers of Computer Science
+-   Keywords: `Multivariate Dynamic Networks` `Rare Categories` `Anomaly Detection` `Visual Analysis`
 
 ---
 
@@ -157,9 +158,9 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-56-28.png'>
 </fancybox>
 
-- Authors: <u>**Jiacheng Pan**</u>, Dongming Han, Fangzhou Guo, Dawei Zhou, Nan Cao, Jingrui He, Wei Chen
-- Publication: Frontiers of Information Technology & Electronic Engineering
-- Keywords: `Rare Category Detection` `Dynamic Network` `Visual Analytics`
+-   Authors: <u>**Jiacheng Pan**</u>, Dongming Han, Fangzhou Guo, Dawei Zhou, Nan Cao, Jingrui He, Wei Chen
+-   Publication: Frontiers of Information Technology & Electronic Engineering
+-   Keywords: `Rare Category Detection` `Dynamic Network` `Visual Analytics`
 
 ---
 
@@ -188,9 +189,9 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-32-59.png'>
 </fancybox>
 
-- Authors: Wei Chen, Fangzhou Guo, Dongming Han, <u>**Jacheng Pan**</u>, Xiaotao Nie, Jiazhi Xia, Xiaolong Zhang
-- Publication: IEEE Transactions on Visualization and Computer Graphics
-- Keywords: `Large Network Exploration` `Structure-Based Exploration` `Suggestive Exploration`
+-   Authors: Wei Chen, Fangzhou Guo, Dongming Han, <u>**Jacheng Pan**</u>, Xiaotao Nie, Jiazhi Xia, Xiaolong Zhang
+-   Publication: IEEE Transactions on Visualization and Computer Graphics
+-   Keywords: `Large Network Exploration` `Structure-Based Exploration` `Suggestive Exploration`
 
 ---
 
@@ -206,9 +207,9 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-45-04.png'>
 </fancybox>
 
-- Authors: Dongming Han, <u>**Jiacheng Pan**</u>, Fangzhou Guo, Xiaonan Luo, Yingcai Wu, Wenting Zheng, Wei Chen
-- Publication: Journal of Visualization
-- Keywords: `Visualization` `Temporal Ranking Ensembles` `Uncertainty`
+-   Authors: Dongming Han, <u>**Jiacheng Pan**</u>, Fangzhou Guo, Xiaonan Luo, Yingcai Wu, Wenting Zheng, Wei Chen
+-   Publication: Journal of Visualization
+-   Keywords: `Visualization` `Temporal Ranking Ensembles` `Uncertainty`
 
 <!--
 
@@ -253,38 +254,38 @@ NetV.js
 
 A Large Scale **Net**work **V**isualization Library
 
-- Mainly developed using `TypeScript`
-- Github: https://github.com/ZJUVAG/NetV.js/
+-   Mainly developed using `TypeScript`
+-   Github: https://github.com/ZJUVAG/NetV.js/
 
 ## <i class="fas fa-user-tie"></i> Work Experience
 
 #### 2019 ~ Present: [Zhejiang Lab](http://www.zhejianglab.com/) Intern
 
-- Mainly responsible for a large scale network visualization project.
+-   Mainly responsible for a large scale network visualization project.
 
 ## <i class="fas fa-award"></i> Awards & Scholarships
 
 #### 2019
 
-- Freshmen Scholarship of Zhejiang University
+-   Freshmen Scholarship of Zhejiang University
 
 #### 2018
 
-- Jiang Zhen Scholarship of Zhejiang University
+-   Jiang Zhen Scholarship of Zhejiang University
 
 #### 2017
 
-- Certificate of Excellence Engineer Training Program
-- Leadership and Service Star Awards
-- Jiang Zhen Scholarship of Zhejiang University
+-   Certificate of Excellence Engineer Training Program
+-   Leadership and Service Star Awards
+-   Jiang Zhen Scholarship of Zhejiang University
 
 #### 2016
 
-- Zhejiang Daily & Alibaba New Media Scholarship
-- Second-Class Scholarship for Outstanding Merits of Zhejiang University
-- Silver Award of the Second China "Internet+" College Students Innovation and Entrepreneurship Competition
-- Gold Award of the Second China College Students' Entrepreneurship Competition
+-   Zhejiang Daily & Alibaba New Media Scholarship
+-   Second-Class Scholarship for Outstanding Merits of Zhejiang University
+-   Silver Award of the Second China "Internet+" College Students Innovation and Entrepreneurship Competition
+-   Gold Award of the Second China College Students' Entrepreneurship Competition
 
 #### 2015
 
-- Third-Class Scholarship for Outstanding Merits of Zhejiang University
+-   Third-Class Scholarship for Outstanding Merits of Zhejiang University
