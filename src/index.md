@@ -102,7 +102,7 @@ Minor: Intensive Training Program of Innovation and Entrepreneurship
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/Snipaste_2021-04-20_11-09-06.jpg'>
 </fancybox>
 
--   Authors: Dongming Han,<u>** Jiacheng Pan**</u>, Xiaodong Zhao and Wei Chen
+-   Authors: Dongming Han, <u>**Jiacheng Pan**</u>, Xiaodong Zhao and Wei Chen
 -   Publication: Visual Informatics
 -   Keywords: `Graph` `Graph Visualization` `Network Visualization` `Node-link diagram`
 
