@@ -163,7 +163,7 @@ contact:
 
 <div class="btns">
 
-[`IEEE TVCG`](https://ieeexplore.ieee.org/document/9240072) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/7d531afa561ac4fa5febffe0cb95e38477f73241.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4) [`📌 SUPPL.`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/cca9e7fdb68b9cc8de1f7e808c57cfbb1877f3bf.pdf) [`🔗 ARXIV`](https://arxiv.org/abs/2008.00666)
+[`IEEE TVCG`](https://ieeexplore.ieee.org/document/9240072) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/7d531afa561ac4fa5febffe0cb95e38477f73241.pdf) [`🎥 视频`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/29b5e20e480a3e49d58e60aeac01a005ab8f0d32.mp4) [`📌 附录`](http://www.cad.zju.edu.cn/home/vagblog/images/photo_bed/2020/8/19/cca9e7fdb68b9cc8de1f7e808c57cfbb1877f3bf.pdf) [`🔗 ARXIV`](https://arxiv.org/abs/2008.00666)
 
 </div>
 
@@ -220,7 +220,7 @@ contact:
 
 <div class="btns">
 
-[`FITEE`](http://www.jzus.zju.edu.cn/article.php?doi=10.1631/FITEE.1900310) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/RCAnalyzer-Visual%20Analytics%20of%20Rare%20Categories%20in%20Dynamic%20Networks.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/videos/RCAnalyzer-Visual%20Analytics%20of%20Rare%20Categories%20in%20Dynamic%20Networks.mp4)
+[`FITEE`](http://www.jzus.zju.edu.cn/article.php?doi=10.1631/FITEE.1900310) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/RCAnalyzer-Visual%20Analytics%20of%20Rare%20Categories%20in%20Dynamic%20Networks.pdf) [`🎥 视频`](http://www.cad.zju.edu.cn/home/vagblog/videos/RCAnalyzer-Visual%20Analytics%20of%20Rare%20Categories%20in%20Dynamic%20Networks.mp4)
 
 </div>
 
@@ -232,7 +232,7 @@ contact:
 
 -   **作者**: <u>**Jiacheng Pan**</u>, Dongming Han, Fangzhou Guo, Dawei Zhou, Nan Cao, Jingrui He, Wei Chen
 -   **发表地**: Frontiers of Information Technology & Electronic Engineering
--   **关键词**: `Rare Category Detection` `Dynamic Network` `Visual Analytics`
+-   **关键词**: `稀有类检测` `动态网络` `可视分析`
 
 ```bibtex
 @article{PanHGZCHXC20
@@ -269,7 +269,7 @@ contact:
 
 <div class="btns">
 
-[`IEEE TVCG`](https://ieeexplore.ieee.org/abstract/document/8440813/) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/Structure-Based%20Suggestive%20Exploration.pdf) [`🎥 VIDEO`](http://www.cad.zju.edu.cn/home/vagblog/videos/Structure-Based%20Suggestive%20Exploration-A%20New%20Approach%20for%20Effective%20Exploration%20of%20Large%20Networks.mp4) [`📰 SLIDES`](http://www.cad.zju.edu.cn/home/vagblog/slides/201907/vis2018berlin.pdf) [`👨‍🏫 PRESENTATION`](https://vimeo.com/299856392) [`👨‍💻 CODE`](https://github.com/ZJUVAG/S3)
+[`IEEE TVCG`](https://ieeexplore.ieee.org/abstract/document/8440813/) [`📄 PDF`](http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/Structure-Based%20Suggestive%20Exploration.pdf) [`🎥 视频`](http://www.cad.zju.edu.cn/home/vagblog/videos/Structure-Based%20Suggestive%20Exploration-A%20New%20Approach%20for%20Effective%20Exploration%20of%20Large%20Networks.mp4) [`📰 报告文档`](http://www.cad.zju.edu.cn/home/vagblog/slides/201907/vis2018berlin.pdf) [`👨‍🏫 演讲视频`](https://vimeo.com/299856392) [`👨‍💻 代码`](https://github.com/ZJUVAG/S3)
 
 </div>
 
@@ -281,7 +281,7 @@ contact:
 
 -   **作者**: Wei Chen, Fangzhou Guo, Dongming Han, <u>**Jiacheng Pan**</u>, Xiaotao Nie, Jiazhi Xia, Xiaolong Zhang
 -   **发表地**: IEEE Transactions on Visualization and Computer Graphics
--   **关键词**: `Large Network Exploration` `Structure-Based Exploration` `Suggestive Exploration`
+-   **关键词**: `大规模图探索` `基于结构的探索` `建议性探索`
 
 ```bibtex
 @ARTICLE{ChenGHPNXZ19,
@@ -304,7 +304,7 @@ contact:
 
 <div class="btns">
 
-[`JOV`](https://link.springer.com/article/10.1007/s12650-019-00598-x) [`📄 PDF`](https://www.researchgate.net/profile/Dongming_Han/publication/336005458_RankBrushers_interactive_analysis_of_temporal_ranking_ensembles/links/5eba2dec92851cd50dab5b36/RankBrushers-interactive-analysis-of-temporal-ranking-ensembles.pdf) [`🎥 VIDEO`](https://jackie-files.oss-cn-hangzhou.aliyuncs.com/9999/ChinaVis_1185.mp4)
+[`JOV`](https://link.springer.com/article/10.1007/s12650-019-00598-x) [`📄 PDF`](https://www.researchgate.net/profile/Dongming_Han/publication/336005458_RankBrushers_interactive_analysis_of_temporal_ranking_ensembles/links/5eba2dec92851cd50dab5b36/RankBrushers-interactive-analysis-of-temporal-ranking-ensembles.pdf) [`🎥 视频`](https://jackie-files.oss-cn-hangzhou.aliyuncs.com/9999/ChinaVis_1185.mp4)
 
 </div>
 
@@ -316,7 +316,7 @@ contact:
 
 -   **作者**: Dongming Han, <u>**Jiacheng Pan**</u>, Fangzhou Guo, Xiaonan Luo, Yingcai Wu, Wenting Zheng, Wei Chen
 -   **发表地**: Journal of Visualization
--   **关键词**: `Visualization` `Temporal Ranking Ensembles` `Uncertainty`
+-   **关键词**: `可视化` `时序排名集合` `不确定性`
 
 ```bibtex
 @article{HanPGLWZC19,
