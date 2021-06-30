@@ -406,7 +406,7 @@ contact:
 
 <div class="btns">
 
-[`👨‍🏫 PRESENTATION`](https://www.youtube.com/watch?v=qpsBOtN2kcQ&ab_channel=IEEEVisConference2020)
+[`👨‍🏫 报告视频`](https://www.youtube.com/watch?v=qpsBOtN2kcQ&ab_channel=IEEEVisConference2020)
 
 </div>
 
