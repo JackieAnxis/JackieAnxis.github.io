@@ -80,11 +80,11 @@ Jiacheng Pan has published seven papers, two of which are published as the first
 
 ### 2021
 
-#### A Visual Analytics Approach for Structural Differences among Transportation Networks
+#### A Visual Analytics Approach for Structural Differences Among Graphs via Deep Learning
 
 <div class="btns">
 
-[`IFAC-PapersOnLine`](https://www.sciencedirect.com/science/article/pii/S2405896321004110) [`📄 PDF`](https://www.sciencedirect.com/science/article/pii/S2405896321004110/pdf?md5=5bfa36f21674fcfa3042f57498d11f1f&pid=1-s2.0-S2405896321004110-main.pdf)
+[`IEEE CG&A`](https://ieeexplore.ieee.org/document/9490333)
 
 </div>
 
@@ -92,11 +92,11 @@ Jiacheng Pan has published seven papers, two of which are published as the first
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/%E5%9B%BE%E7%89%871.png'>
 </fancybox>
 
-> Representing and analyzing structural differences among transportation networks help gain insight into the difference related patterns such as dynamic evolutions of transportation networks. Conventional solutions leverage representation learning techniques to encode structural information, but lack of an intuitive way of studying structural semantics of transportation networks. In this paper, we propose a representation-and-analysis scheme for structural differences among graphs. We propose a Delta2vec embedding technique to encode multiple graphs while preserving semantics of structural differences. We design and implement a web-based visual analytics system to support comparative study of features learned from the embeddings. One distinctive feature of our approach is that it supports semantics-aware construction, quantification, and investigation of latent relations encoded in graphs.
+> Representing and analyzing structural differences among graphs help gain insight into the difference related patterns such as dynamic evolutions of graphs. Conventional solutions leverage representation learning techniques to encode structural information, but lack an intuitive way of studying structural semantics of graphs. In this article, we propose a representation-and-analysis scheme for structural differences among graphs. We propose a deep-learning-based embedding technique to encode multiple graphs while preserving semantics of structural differences. We design and implement a web-based visual analytics system to support comparative study of features learned from the embeddings. One distinctive feature of our approach is that it supports semantics-aware construction, quantification, and investigation of latent relations encoded in graphs. We validate the usability and effectiveness of our approach through case studies with three datasets.
 
 -   **Authors**: Dongming Han, <u>**Jiacheng Pan**</u>, Cong Xie, Xiaodong Zhao and Wei Chen
 -   **Publication**: IFAC-PapersOnLine
--   **Keywords**: `Graph Embedding` `Structural Differences` `Transportation Network Analysis` `Transportation Network Visualization` `Representation Learning`
+-   **Keywords**: `Semantics` `Deep learning` `Visual analytics` `Topology` `Task analysis` `Computational modeling`
 
 ```bibtex
 @article{HanPXZC20,
@@ -191,7 +191,7 @@ Jiacheng Pan has published seven papers, two of which are published as the first
 
 <div class="btns">
 
-`FCS (Accepted)`
+[`FCS`](https://link.springer.com/article/10.1007%2Fs11704-020-0013-1)
 
 </div>
 
@@ -199,11 +199,32 @@ Jiacheng Pan has published seven papers, two of which are published as the first
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-59-37.png'>
 </fancybox>
 
-> Multivariate dynamic networks indicate networks whose topology structure and vertex attributes are evolving along time. They are common in multimedia applications. Anomaly detection is one of the essential tasks in analyzing these networks though it is not well addressed. In this paper, we combine a rare category detection method and visualization techniques to help users to identify and analyze anomalies in multivariate dynamic networks. We conclude features of rare categories and two types of anomalies of rare categories. Then we present a novel rare category detection method, called DIRAD, to detect rare category candidates with anomalies. We develop a prototype system called iNet, which integrates two major visualization components, including a glyph-based rare category identifier, which helps users to identify rare categories among detected substructures, a major view, which assists users to analyze and interpret the anomalies of rare categories in network topology and vertex attributes. Evaluations, including an algorithm performance evaluation, a case study, and a user study, are conducted to test the effectiveness of proposed methods
+> Multivariate dynamic networks indicate networks whose topology structure and vertex attributes are evolving along time. They are common in multimedia applications. Anomaly detection is one of the essential tasks in analyzing these networks though it is not well addressed. In this paper, we combine a rare category detection method and visualization techniques to help users to identify and analyze anomalies in multivariate dynamic networks. We conclude features of rare categories and two types of anomalies of rare categories. Then we present a novel rare category detection method, called DIRAD, to detect rare category candidates with anomalies. We develop a prototype system called iNet, which integrates two major visualization components, including a glyph-based rare category identifier, which helps users to identify rare categories among detected substructures, a major view, which assists users to analyze and interpret the anomalies of rare categories in network topology and vertex attributes. Evaluations, including an algorithm performance evaluation, a case study, and a user study, are conducted to test the effectiveness of proposed methods.
 
 -   **Authors**: Dongming Han, <u>**Jiacheng Pan**</u>, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
--   **Publication**: Frontiers of Computer Science (accepted)
+-   **Publication**: Frontiers of Computer Science
 -   **Keywords**: `Multivariate Dynamic Networks` `Rare Categories` `Anomaly Detection` `Visual Analysis`
+
+```bibtex
+@article{HanPPZCHXC22,
+  author    = {Dongming Han and
+               Jiacheng Pan and
+               Rusheng Pan and
+               Dawei Zhou and
+               Nan Cao and
+               Jingrui He and
+               Mingliang Xu and
+               Wei Chen},
+  title     = {iNet: visual analysis of irregular transition in multivariate dynamic networks},
+  journal   = {Frontiers of Computer Science},
+  volume    = {16},
+  number    = {2},
+  pages     = {162701},
+  year      = {2022},
+  url       = {https://doi.org/10.1007/s11704-020-0013-1},
+  doi       = {10.1007/s11704-020-0013-1}
+}
+```
 
 ---
 

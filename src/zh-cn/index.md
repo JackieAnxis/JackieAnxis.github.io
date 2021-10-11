@@ -79,13 +79,13 @@ contact:
 
 ### 2021
 
-#### A Visual Analytics Approach for Structural Differences among Transportation Networks
+#### A Visual Analytics Approach for Structural Differences Among Graphs via Deep Learning
 
-#### 一种交通运输网络结构差异的可视分析方法
+#### 一种通过深度学习对结构差异进行可视分析的方法
 
 <div class="btns">
 
-[`IFAC-PapersOnLine`](https://www.sciencedirect.com/science/article/pii/S2405896321004110) [`📄 PDF`](https://www.sciencedirect.com/science/article/pii/S2405896321004110/pdf?md5=5bfa36f21674fcfa3042f57498d11f1f&pid=1-s2.0-S2405896321004110-main.pdf)
+[`IEEE CG&A`](https://ieeexplore.ieee.org/document/9490333)
 
 </div>
 
@@ -93,25 +93,23 @@ contact:
 <img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/%E5%9B%BE%E7%89%871.png'>
 </fancybox>
 
-> 表示和分析交通网络之间的结构差异有助于深入了解交通网络动态演化等与差异相关的模式。传统的解决方案利用表示学习来编码结构信息，但缺乏直观的方法来研究交通网络的结构语义。 本文提出了一种图间结构差异的表示和分析方案。我们提出了一种 Delta2vec 嵌入技术来编码多个图，同时保留结构差异的语义。我们设计并实现了一个基于网页的可视化分析系统，支持对从嵌入中学习到的特征的比较研究。我们方法的一个显著特点是它支持构造和量化语义感知，以研究图数据中的潜在关系。
+> 表示和分析网络之间的结构差异有助于深入了解网络动态演化等与差异相关的模式。传统的解决方案利用表示学习来编码结构信息，但缺乏直观的方法来研究网络的结构语义。 本文提出了一种图结构差异的表示和分析方案。我们提出了一种 Delta2vec 嵌入技术来编码多个图，同时保留结构差异的语义。我们设计并实现了一个基于网页的可视化分析系统，支持对从嵌入中学习到的特征的比较研究。我们方法的一个显著特点是它支持构造和量化语义感知，以研究图数据中的潜在关系。我们通过三个数据集的案例研究来验证我们方法的可用性和有效性。
 
 -   **作者**: Dongming Han, <u>**Jiacheng Pan**</u>, Cong Xie, Xiaodong Zhao and Wei Chen
 -   **发表地**: IFAC-PapersOnLine
--   **关键词**: `图嵌入` `结构差异` `交通网络分析` `交通网络可视化` `表示学习`
+-   **关键词**: `语义` `深度学习` `可视分析` `拓扑` `任务分析` `可计算模型`
 
 ```bibtex
 @article{HanPXZC20,
   title = {A Visual Analytics Approach for Structural Differences among Transportation Networks},
-  journal = {IFAC-PapersOnLine},
-  volume = {53},
-  number = {5},
-  pages = {566-571},
-  year = {2020},
-  note = {3rd IFAC Workshop on Cyber-Physical & Human Systems CPHS 2020},
-  issn = {2405-8963},
-  doi = {https://doi.org/10.1016/j.ifacol.2021.04.226},
-  url = {https://www.sciencedirect.com/science/article/pii/S2405896321004110},
-  author = {Dongming Han and Jiacheng Pan and Cong Xie and Xiaodong Zhao and Wei Chen},
+  journal={IEEE Computer Graphics and Applications},
+  title={A Visual Analytics Approach for Structural Differences Among Graphs via Deep Learning},
+  year={2021},
+  volume={41},
+  number={5},
+  pages={18-31},
+  doi={10.1109/MCG.2021.3097799},
+  author = {Han, Dongming and Pan, Jiacheng and Xie, Cong and Zhao, Xiaodong and Luo, Xiaonan and Chen, Wei},
 }
 ```
 
@@ -198,7 +196,7 @@ contact:
 
 <div class="btns">
 
-`FCS (Accepted)`
+[`FCS`](https://link.springer.com/article/10.1007%2Fs11704-020-0013-1)
 
 </div>
 
@@ -209,8 +207,29 @@ contact:
 > 多元动态网络是指拓扑结构和节点属性随时间变化的网络。它们在多媒体应用中很常见。异常检测是分析这些网络的重要任务之一，但目前还没有得到很好的解决。在本文中，我们结合了一种稀有类检测方法和可视化技术来帮助用户识别和分析多变量动态网络中的异常。我们总结了稀有类的特征和两种异常类型。在此基础上，提出了一种新的稀有类别检测方法 DIRAD，用于检测具有异常的稀有类别候选。我们开发了一个名为 iNet 的原型系统，它集成了两个主要的可视化组件，包括一个基于 glyph 的稀有类别标识符，它帮助用户在检测到的子结构中识别稀有类别，以及一个主视图，帮助用户分析和解释网络拓扑和节点属性中稀有类别的异常。我们还进行了评估，包括一个算法性能评估，一个案例研究，和一个用户研究，以测试提出方法的有效性。
 
 -   **作者**: Dongming Han, <u>**Jiacheng Pan**</u>, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui He, Mingliang Xu, Wei Chen
--   **发表地**: Frontiers of Computer Science (已接收)
+-   **发表地**: Frontiers of Computer Science
 -   **关键词**: `多属性动态网络` `稀有类` `异常检测` `可视分析`
+
+```bibtex
+@article{HanPPZCHXC22,
+  author    = {Dongming Han and
+               Jiacheng Pan and
+               Rusheng Pan and
+               Dawei Zhou and
+               Nan Cao and
+               Jingrui He and
+               Mingliang Xu and
+               Wei Chen},
+  title     = {iNet: visual analysis of irregular transition in multivariate dynamic networks},
+  journal   = {Frontiers of Computer Science},
+  volume    = {16},
+  number    = {2},
+  pages     = {162701},
+  year      = {2022},
+  url       = {https://doi.org/10.1007/s11704-020-0013-1},
+  doi       = {10.1007/s11704-020-0013-1}
+}
+```
 
 ---
 
