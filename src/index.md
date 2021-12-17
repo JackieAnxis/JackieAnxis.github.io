@@ -475,6 +475,10 @@ A JavaScript graph layout library which encapsulates layout algorithms from [OGD
 
 -   Mainly responsible for a large scale network visualization project.
 
+#### 2021: VIS 2021 Reviewer
+
+-   Reviewer of IEEE VIS 2021
+
 ## 🏆 Awards & Scholarships
 
 #### Master-Ph.D. Period (2017-2022)
