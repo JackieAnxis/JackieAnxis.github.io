@@ -482,6 +482,9 @@ A JavaScript graph layout library which encapsulates layout algorithms from [OGD
 -   Freshmen Scholarship of Zhejiang University
 -   Jiang Zhen Scholarship of Zhejiang University
 -   Certificate of Zhejiang University Academic Star
+-   Merit Graduate Student of Zhejiang University
+-   Excellent Graduate Student of Zhejiang University
+-   Guorui Scholarship of Zhejiang University
 
 #### Bachelor Period (2013-2017)
 
