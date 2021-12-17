@@ -99,7 +99,7 @@ function copyToClipboard(that) {
 
 #### 一种通过深度学习对结构差异进行可视分析的方法
 
-<div class="关键词">
+<div class="keywords">
 
 `语义` `深度学习` `可视分析` `拓扑` `任务分析` `可计算模型`
 
@@ -140,7 +140,7 @@ function copyToClipboard(that) {
 
 #### NetV.js: 一款基于 Web 的支持大规模图和网络高效可视化的库
 
-<div class="关键词">
+<div class="keywords">
 
 `图` `图可视化` `网络可视化` `节点链接图`
 
@@ -183,7 +183,7 @@ function copyToClipboard(that) {
 
 #### 基于范例的节点链接图布局微调技术
 
-<div class="关键词">
+<div class="keywords">
 
 `节点链接图` `图布局` `图可视化` `用户交互`
 
@@ -221,7 +221,7 @@ function copyToClipboard(that) {
 
 #### iNet: 一种多属性动态网络不规则变换的可视分析方法
 
-<div class="关键词">
+<div class="keywords">
 
 `多属性动态网络` `稀有类` `异常检测` `可视分析`
 
@@ -267,7 +267,7 @@ function copyToClipboard(that) {
 
 #### RCAnalyzer: 一种动态网络中稀有类的可视分析方法
 
-<div class="关键词">
+<div class="keywords">
 
 `稀有类检测` `动态网络` `可视分析`
 
@@ -321,7 +321,7 @@ function copyToClipboard(that) {
 
 #### 基于结构的建议性大规模图可视探索新方法
 
-<div class="关键词">
+<div class="keywords">
 
 `大规模图探索` `基于结构的探索` `建议性探索`
 
@@ -361,7 +361,7 @@ function copyToClipboard(that) {
 
 #### RankBrushers: 一种对时序排名集合的交互式分析方法
 
-<div class="关键词">
+<div class="keywords">
 
 `可视化` `时序排名集合` `不确定性`
 
