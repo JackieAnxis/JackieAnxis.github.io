@@ -120,7 +120,7 @@ Dongming Han, <u>**Jiacheng Pan**</u>, Cong Xie, Xiaodong Zhao and Wei Chen
   doi = {https://doi.org/10.1016/j.ifacol.2021.04.226},
   url = {https://www.sciencedirect.com/science/article/pii/S2405896321004110},
   author = {Dongming Han and Jiacheng Pan and Cong Xie and Xiaodong Zhao and Wei Chen}, 
-}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-HanPXZC20" href="javascript:;"><code>🎈 MORE INFO</code></a>
+}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-HanPXZC20" href="javascript:;"><code>💡 MORE INFO</code></a>
 
 <div style="display: none; width: 80%;" id="hidden-content-HanPXZC20">
 	<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/%E5%9B%BE%E7%89%871.png' style="width: 80%; max-width: max-content; margin: 0 auto;
@@ -159,7 +159,7 @@ Dongming Han, <u>**Jiacheng Pan**</u>, Xiaodong Zhao and Wei Chen
   url = {https://www.sciencedirect.com/science/article/pii/S2468502X21000048},
   author = {Dongming Han and Jiacheng Pan and Xiaodong Zhao and Wei Chen},
   keywords = {Graph, Graph visualization, Network visualization, Node-link diagram},
-}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-HanPZC21" href="javascript:;"><code>🎈 MORE INFO</code></a>
+}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-HanPZC21" href="javascript:;"><code>💡 MORE INFO</code></a>
 
 <div style="display: none; width: 80%;" class="hidden-content" id="hidden-content-HanPZC21">
 	<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/Snipaste_2021-04-20_11-09-06.jpg' style="width: 80%; max-width: max-content; margin: 0 auto;
@@ -198,7 +198,7 @@ Dongming Han, <u>**Jiacheng Pan**</u>, Xiaodong Zhao and Wei Chen
   number={2},
   pages={1655-1665},
   doi={10.1109/TVCG.2020.3030393}
-}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-PanCZZZZCFW21" href="javascript:;"><code>🎈 MORE INFO</code></a>
+}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-PanCZZZZCFW21" href="javascript:;"><code>💡 MORE INFO</code></a>
 
 <div style="display: none; width: 80%;" id="hidden-content-PanCZZZZCFW21">
 	<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_19-29-50.png' style="width: 80%; max-width: max-content; margin: 0 auto;
@@ -242,7 +242,7 @@ Dongming Han, <u>**Jiacheng Pan**</u>, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui
   year      = {2022},
   url       = {https://doi.org/10.1007/s11704-020-0013-1},
   doi       = {10.1007/s11704-020-0013-1}
-}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-HanPPZCHXC22" href="javascript:;"><code>🎈 MORE INFO</code></a>
+}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-HanPPZCHXC22" href="javascript:;"><code>💡 MORE INFO</code></a>
 
 <div style="display: none; width: 80%;" id="hidden-content-HanPPZCHXC22">
 	<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-59-37.png' style="width: 80%; max-width: max-content; margin: 0 auto;
@@ -279,7 +279,7 @@ Dongming Han, <u>**Jiacheng Pan**</u>, Rusheng Pan, Dawei Zhou, Nan Cao, Jingrui
   year={2020},
   publisher={Zhejiang University Press & Springer},
   doi={10.1631/FITEE.1900310}
-}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-PanHGZCHXC20" href="javascript:;"><code>🎈 MORE INFO</code></a>
+}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-PanHGZCHXC20" href="javascript:;"><code>💡 MORE INFO</code></a>
 
 <div style="display: none; width: 80%;" id="hidden-content-PanHGZCHXC20">
 	<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-15_23-56-28.png' style="width: 80%; max-width: max-content; margin: 0 auto;
@@ -330,7 +330,7 @@ Wei Chen, Fangzhou Guo, Dongming Han, <u>**Jiacheng Pan**</u>, Xiaotao Nie, Jiaz
   number={1},
   pages={555-565},
   doi={10.1109/TVCG.2018.2865139}
-}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-ChenGHPNXZ19" href="javascript:;"><code>🎈 MORE INFO</code></a>
+}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-ChenGHPNXZ19" href="javascript:;"><code>💡 MORE INFO</code></a>
 
 <div style="display: none; width: 80%;" id="hidden-content-ChenGHPNXZ19">
 	<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-32-59.png' style="width: 80%; max-width: max-content; margin: 0 auto;
@@ -369,7 +369,7 @@ Dongming Han, <u>**Jiacheng Pan**</u>, Fangzhou Guo, Xiaonan Luo, Yingcai Wu, We
   year = {2019},
   url = {https://doi.org/10.1007/s12650-019-00598-x},
   doi = {10.1007/s12650-019-00598-x},
-}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-HanPGLWZC19" href="javascript:;"><code>🎈 MORE INFO</code></a>
+}"><code>✒️ BIBTEX</code></a> <a data-fancybox data-src="#hidden-content-HanPGLWZC19" href="javascript:;"><code>💡 MORE INFO</code></a>
 
 <div style="display: none; width: 80%;" id="hidden-content-HanPGLWZC19">
 	<img src='https://jackie-image.oss-cn-hangzhou.aliyuncs.com/20-09-15/Snipaste_2020-09-16_00-45-04.png' style="width: 80%; max-width: max-content; margin: 0 auto;
